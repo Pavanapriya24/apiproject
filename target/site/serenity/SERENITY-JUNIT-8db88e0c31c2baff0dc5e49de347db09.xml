@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="To test the Banking Application." skipped="0" tests="3" time="16.81" timestamp="2020-09-252 08:44:43"><testcase name="To check account details of"/><testcase name="To check account details of id=3,4"/><testcase name="To display joint account details"/></testsuite>

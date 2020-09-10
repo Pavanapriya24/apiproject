@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="To test the Banking Application." skipped="0" tests="1" time="0.84" timestamp="2020-09-250 10:47:08"><testcase name="place order"><error message="java.util.Collections$UnmodifiableRandomAccessList cannot be cast to org.apache.commons.validator.Var" type="java.lang.ClassCastException">java.util.Collections$UnmodifiableRandomAccessList cannot be cast to org.apache.commons.validator.Var</error><system-err>java.util.Collections$UnmodifiableRandomAccessList cannot be cast to org.apache.commons.validator.Var&#13;
+com.cts.stepdefinition.Stepdef.the_user_send_request_with_details_to_BANKING_SITE(Stepdef.java:114)&#13;
+✽.When the user send request with details to BANKING SITE(src/test/resources/resources/api.feature:45)&#13;
+</system-err></testcase></testsuite>
